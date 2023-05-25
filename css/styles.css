@@ -22,13 +22,15 @@ body{
 
 .menu a{
     text-decoration: none;
-    background-color: #C4C4C4;
+    background-color: #C0C0C0;
     padding: 10px;
     border-radius: 5px;
 }
 
 .s_info_p{
-    background-color: #E6E6E6;
+    background-image: url('https://img.freepik.com/fotos-premium/fondo-blanco-simple-lineas-suaves-colores-claros_476363-1080.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .s_info_p div{
