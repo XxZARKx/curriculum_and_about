@@ -1,0 +1,103 @@
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imgIcon{
+    width: 100px;
+    padding-top: 20px;
+    margin: 0 auto 0 48%;
+    display: block;
+}
+
+.imgIconBatman{
+    width: 60px;
+}
+
+.menu{
+    text-align: right;
+    margin-right: 50px;
+}
+
+.menu a{
+    text-decoration: none;
+    background-color: #C4C4C4;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.s_info_p{
+    background-color: #E6E6E6;
+}
+
+.s_info_p div{
+    display: flex;
+}
+
+.s_info_p div a{
+    margin: 30px 30px 0 0;
+    font-size: 20px;
+    color: rgb(214, 114, 114);
+}
+
+header h1{
+    font-size: 35px;
+    padding: 5px 0;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.main-rodrigo{
+    margin: 150px 0 273px 0;
+}
+
+.main-batman{
+    margin: 92px 0 0 0;
+}
+
+.main-about{
+    margin: 70px 20px;
+}
+
+/*  datos-info-exp */
+
+.info{
+    background-color: #C4C4C4;  
+    color: #005677; 
+    padding-left: 10px;
+}
+
+.datos_p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.info_p{
+    display: flex;
+    padding-left: 15px;
+}
+
+
+/* footer */
+
+footer{
+    background-color: #005677;
+    color: white;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 150px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.iconos{
+    width: 30px;
+}
+
+footer a{
+    color: white
+}
