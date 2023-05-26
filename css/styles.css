@@ -11,10 +11,6 @@ body{
     display: block;
 }
 
-.imgIconBatman{
-    width: 60px;
-}
-
 .menu{
     text-align: right;
     margin-right: 50px;
@@ -51,11 +47,7 @@ header h1{
 }
 
 .main-rodrigo{
-    margin: 150px 0 273px 0;
-}
-
-.main-batman{
-    margin: 92px 0 0 0;
+    margin: 150px 0 241px 0;
 }
 
 .main-about{
