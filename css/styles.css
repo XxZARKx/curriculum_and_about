@@ -59,7 +59,11 @@ header h1{
 }
 
 .main-about{
-    margin: 70px 20px;
+    margin: 70px 20px 164px;
+}
+
+.main-about section{
+    width: 800px;
 }
 
 /*  datos-info-exp */
